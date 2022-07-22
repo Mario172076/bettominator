@@ -1,0 +1,118 @@
+ .u-section-1 {
+  background-image: none;
+  min-height: 555px;
+}
+
+.u-section-1 .u-gallery-1 {
+  height: 412px;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-gallery-item-1 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-back-slide-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-2 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-3 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-item-4 {
+  margin-right: 0;
+}
+
+.u-section-1 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+
+.u-section-1 .u-gallery-nav-1 {
+  position: absolute;
+  left: 10px;
+  width: 40px;
+  height: 40px;
+  top: 168px;
+  padding: 4px;
+}
+
+.u-section-1 .u-gallery-nav-2 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  left: auto;
+  top: 168px;
+  right: 10px;
+  padding: 4px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 17px auto 22px;
+  padding: 26px 74px 26px 73px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-gallery-1 {
+    width: 617px;
+    margin-top: 32px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 15px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-gallery-1 {
+    width: 616px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-gallery-1 {
+    width: 590px;
+    margin-top: 33px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 14px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-gallery-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
